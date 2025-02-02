@@ -85,11 +85,3 @@ This will display the active token and the correct URL.
 By following these steps, you’ll have Jupyter Notebook running smoothly in **GitHub Codespaces**. Whether you’re working on machine learning, data analysis, or just playing around with Python, you now have a powerful tool at your fingertips!
 
 Happy coding! 🎉
-
-```
-
-### Key Visual Enhancements:
-- **Headings** are styled to make each section easy to locate.
-- **Emojis** were added to make the guide more engaging.
-- **Code blocks** are clearly highlighted for easy copying.
-- **Bold text** was used to emphasize key points like commands and important steps.
