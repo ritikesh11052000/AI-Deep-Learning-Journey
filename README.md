@@ -36,6 +36,7 @@ Edit
 📌 NLP Text Classification - Text sentiment prediction 📝
 
 ⚡ Getting Started
+
 1️⃣ Clone this repository
 
 bash
@@ -43,12 +44,14 @@ Copy
 Edit
 git clone https://github.com/your-username/AI-Deep-Learning-Journey.git
 cd AI-Deep-Learning-Journey
+
 2️⃣ Install dependencies
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 3️⃣ Run Jupyter Notebook
 
 bash
